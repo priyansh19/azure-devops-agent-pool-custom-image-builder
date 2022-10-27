@@ -11,6 +11,10 @@
 - [How to Interact with the Repo](#how-to-interact-with-the-repo)
 - [FAQs](#faqs)
 
+## Follow this article to create a Image
+
+https://msftplayground.com/2021/02/private-azure-devops-agent-pool-based-the-microsoft-hosted-agents/
+
 ## About
 
 This repository contains the source code used to create the VM images for [GitHub-hosted runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners) used for Actions, as well as for [Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops#use-a-microsoft-hosted-agent) used for Azure Pipelines.
